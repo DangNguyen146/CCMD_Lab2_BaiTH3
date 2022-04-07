@@ -1,0 +1,10 @@
+E:\UIT-HKII-2021\CoCheHoatDongMaDoc\Thuchanh\Lab2\Lab2_TH3\Lab2_TH3\bin\Debug\Lab2_TH3.exe.config
+E:\UIT-HKII-2021\CoCheHoatDongMaDoc\Thuchanh\Lab2\Lab2_TH3\Lab2_TH3\bin\Debug\Lab2_TH3.exe
+E:\UIT-HKII-2021\CoCheHoatDongMaDoc\Thuchanh\Lab2\Lab2_TH3\Lab2_TH3\bin\Debug\Lab2_TH3.pdb
+E:\UIT-HKII-2021\CoCheHoatDongMaDoc\Thuchanh\Lab2\Lab2_TH3\Lab2_TH3\obj\Debug\Lab2_TH3.csproj.AssemblyReference.cache
+E:\UIT-HKII-2021\CoCheHoatDongMaDoc\Thuchanh\Lab2\Lab2_TH3\Lab2_TH3\obj\Debug\Lab2_TH3.csproj.SuggestedBindingRedirects.cache
+E:\UIT-HKII-2021\CoCheHoatDongMaDoc\Thuchanh\Lab2\Lab2_TH3\Lab2_TH3\obj\Debug\Lab2_TH3.ProjectInstaller.resources
+E:\UIT-HKII-2021\CoCheHoatDongMaDoc\Thuchanh\Lab2\Lab2_TH3\Lab2_TH3\obj\Debug\Lab2_TH3.csproj.GenerateResource.cache
+E:\UIT-HKII-2021\CoCheHoatDongMaDoc\Thuchanh\Lab2\Lab2_TH3\Lab2_TH3\obj\Debug\Lab2_TH3.csproj.CoreCompileInputs.cache
+E:\UIT-HKII-2021\CoCheHoatDongMaDoc\Thuchanh\Lab2\Lab2_TH3\Lab2_TH3\obj\Debug\Lab2_TH3.exe
+E:\UIT-HKII-2021\CoCheHoatDongMaDoc\Thuchanh\Lab2\Lab2_TH3\Lab2_TH3\obj\Debug\Lab2_TH3.pdb

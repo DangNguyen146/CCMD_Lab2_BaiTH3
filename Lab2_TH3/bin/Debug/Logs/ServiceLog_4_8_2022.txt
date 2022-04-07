@@ -1,0 +1,27 @@
+Service is recall at 4/8/2022 1:41:56 AM
+Internet connection!!!
+Service is recall at 4/8/2022 1:42:01 AM
+Internet connection!!!
+Service is recall at 4/8/2022 1:42:06 AM
+No internet connect!!!
+Service is recall at 4/8/2022 1:42:11 AM
+No internet connect!!!
+Service is recall at 4/8/2022 1:42:16 AM
+Internet connection!!!
+Service is recall at 4/8/2022 1:42:21 AM
+Internet connection!!!
+Service is recall at 4/8/2022 1:42:26 AM
+Internet connection!!!
+Service is stopped at 4/8/2022 1:42:28 AM
+Service is started at 4/8/2022 1:47:15 AM
+Service is recall at 4/8/2022 1:47:20 AM
+Internet connection!!!
+Service is recall at 4/8/2022 1:47:25 AM
+Internet connection!!!
+Service is recall at 4/8/2022 1:47:30 AM
+Internet connection!!!
+Service is recall at 4/8/2022 1:47:35 AM
+Internet connection!!!
+Service is recall at 4/8/2022 1:47:40 AM
+Internet connection!!!
+Service is stopped at 4/8/2022 1:47:42 AM
