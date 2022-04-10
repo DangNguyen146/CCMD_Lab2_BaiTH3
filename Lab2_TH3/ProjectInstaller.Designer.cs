@@ -40,7 +40,7 @@
             // serviceInstaller1
             // 
             this.serviceInstaller1.Description = "CatFlag Service demo";
-            this.serviceInstaller1.DisplayName = "CatFlagService.Demo";
+            this.serviceInstaller1.DisplayName = "CatFlagServiceTH3.Demo";
             this.serviceInstaller1.ServiceName = "Service Th3";
             // 
             // ProjectInstaller
